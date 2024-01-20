@@ -1,6 +1,7 @@
-https://github.com/Phantom140204/rosserial_arduino_lib.git
-https://github.com/KarthickPandianPV/FXOS8700Q_MAGNETOMETER.git
 https://github.com/DrParadox1090/I2C-Device.git
-https://github.com/Phantom140204/MadgwickAHRS.git
-https://github.com/rahulknns/MPU_6050.git#v1.1
+https://github.com/mprograms/QMC5883LCompass.git
 https://github.com/Phantom140204/BlueRobotics_MS5837_Library.git
+https://github.com/rahulknns/MPU_6050.git#v1.1
+https://github.com/Phantom140204/rosserial_arduino_lib.git
+https://github.com/adafruit/Adafruit_FXOS8700.git
+https://github.com/Phantom140204/MadgwickAHRS.git
